@@ -2,7 +2,7 @@
 ssnddsgnrkkkkkkkkkkk=7mkkkkkkkkkGedonism   ssnddsgnr@localhost
 kkkkRebelkm56..2..........''4kChyngalgan   -----------------------------------------------------------------------------
 kkkErkekkb'....[-.......-.....-8kNeovimk   OS: .......... Linux / WSL2 (Ubuntu / Arch)
-kkkkkm''.....'b...............-,,,mmkkkk   Uptime: ...... 26 yrs, 11 mos, 03 days
+kkkkkm''.....'b...............-,,,mmkkkk   Uptime: ...... 26 yrs, 11 mos, 04 days
 kkkb,...,,,.........,......'...7k8Yurtak   Host: ........ Brain Cells Ltd. (Coffee Powered)
 kkk75'2'..,mkkkTundukkkkmm,....-,,,.mkkk   Shell: ....... Zsh + Tmux
 kb,,.aw'.seckachkkStalkerkk-k.1..jk73kkk   Editor: ...... NeoVim (What is a mouse?)
@@ -24,13 +24,13 @@ kPlovek...'.........,mkManaskk..'km5kkkk
 ....,kmb..kArykk,Financekk=2mm1b........   Focus: ....... on my goals 🛸
 ========================================================================================================================
 1. Live GitHub Metrics -------------------------------------------------------------------------------------------------
-   - Public Repositories: 5                Pull Requests: ..... 0                Total Commits: .... 37
+   - Public Repositories: 5                Pull Requests: ..... 0                Total Commits: .... 44
    - Account Followers: . 0                Total Stars: ....... 0                Active Project: ... DataCopter
 2. Top Languages (Code Volume) -----------------------------------------------------------------------------------------
-   - Rust         [█████████████████████████████████████████████████████████████░░░░░░░░░]  86.6%
-   - JavaScript   [█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   7.2%
+   - Rust         [████████████████████████████████████████████████████████████░░░░░░░░░░]  86.3%
+   - JavaScript   [█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   7.4%
    - HTML         [██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   3.5%
-   - CSS          [██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   2.7%
+   - CSS          [██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   2.8%
 ========================================================================================================================
    BTC:   <a href="https://mempool.space/address/bc1qu4edhpk0wsdzh90aa6f488sr2ylr0rfrn37gt6">bc1qu4edhpk0wsdzh90aa6f488sr2ylr0rfrn37gt6</a>                                                (Trust Wallet)
    ETH:   <a href="https://etherscan.io/address/0x5B17758d7Eb8e14119f5Bdf6c2bBD4de786c5d08">0x5B17758d7Eb8e14119f5Bdf6c2bBD4de786c5d08</a>                                                (Trust Wallet)
