@@ -2,7 +2,7 @@
 ssnddsgnrkkkkkkkkkkk=7mkkkkkkkkkGedonism   ssnddsgnr@localhost
 kkkkRebelkm56..2..........''4kChyngalgan   -----------------------------------------------------------------------------
 kkkErkekkb'....[-.......-.....-8kNeovimk   OS: .......... Linux / WSL2 (Ubuntu / Arch)
-kkkkkm''.....'b...............-,,,mmkkkk   Uptime: ...... 26 yrs, 11 mos, 06 days
+kkkkkm''.....'b...............-,,,mmkkkk   Uptime: ...... 26 yrs, 11 mos, 07 days
 kkkb,...,,,.........,......'...7k8Yurtak   Host: ........ Brain Cells Ltd. (Coffee Powered)
 kkk75'2'..,mkkkTundukkkkmm,....-,,,.mkkk   Shell: ....... Zsh + Tmux
 kb,,.aw'.seckachkkStalkerkk-k.1..jk73kkk   Editor: ...... NeoVim (What is a mouse?)
