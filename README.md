@@ -2,7 +2,7 @@
 ssnddsgnrkkkkkkkkkkk=7mkkkkkkkkkGedonism   ssnddsgnr@localhost
 kkkkRebelkm56..2..........''4kChyngalgan   -----------------------------------------------------------------------------
 kkkErkekkb'....[-.......-.....-8kNeovimk   OS: .......... Linux / WSL2 (Ubuntu / Arch)
-kkkkkm''.....'b...............-,,,mmkkkk   Uptime: ...... 27 yrs, 02 mos, 22 days
+kkkkkm''.....'b...............-,,,mmkkkk   Uptime: ...... 27 yrs, 02 mos, 23 days
 kkkb,...,,,.........,......'...7k8Yurtak   Host: ........ Brain Cells Ltd. (Coffee Powered)
 kkk75'2'..,mkkkTundukkkkmm,....-,,,.mkkk   Shell: ....... Zsh + Tmux
 kb,,.aw'.seckachkkStalkerkk-k.1..jk73kkk   Editor: ...... NeoVim (What is a mouse?)
@@ -24,7 +24,7 @@ kPlovek...'.........,mkManaskk..'km5kkkk
 ....,kmb..kArykk,Financekk=2mm1b........   Focus: ....... on my goals 🛸
 ========================================================================================================================
 1. Live GitHub Metrics -------------------------------------------------------------------------------------------------
-   - Public Repositories: 6                Pull Requests: ..... 0                Total Commits: .... 56
+   - Public Repositories: 6                Pull Requests: ..... 1                Total Commits: .... 57
    - Account Followers: . 0                Total Stars: ....... 0                Active Project: ... DataCopter
 2. Top Languages (Code Volume) -----------------------------------------------------------------------------------------
    - Rust         [████████████████████████████████████████████████████████████░░░░░░░░░░]  85.5%
